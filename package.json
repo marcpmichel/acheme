@@ -1,0 +1,27 @@
+{
+  "name": "achene",
+  "version": "0.1.0",
+  "description": "micro http framework",
+  "main": "achene.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcpmichel/acheme.git"
+  },
+  "keywords": [
+    "http",
+    "server",
+    "framework"
+  ],
+  "author": "Marc P. Michel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcpmichel/acheme/issues"
+  },
+  "homepage": "https://github.com/marcpmichel/acheme#readme"
+}
